@@ -1,0 +1,3 @@
+#each lines defines files, directiries and the codeowners
+README.md @soroush62
+/.github sohrabian.so83@gmail.com
